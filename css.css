@@ -1,0 +1,14 @@
+.card-img-top {
+    object-fit: cover;  
+  }
+  .box-text {
+    align-items: center;
+  }
+  .main-container {
+    font-family: 'Nanum Gothic', sans-serif;
+  }
+  @media screen and (min-width:993px ) {
+    .carousel-header {
+      display: none;
+    }
+  }
